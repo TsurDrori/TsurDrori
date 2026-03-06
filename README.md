@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:0f3460,70:0d0221,100:0d0221&height=220&section=header&text=TSUR%20DRORI&fontSize=80&fontColor=00ff41&animation=fadeIn&desc=%3E%20Engineer%20%7C%20Founder%20%7C%20AI-First%20Builder&descSize=18&descAlignY=75&fontAlignY=38&stroke=00ff41&strokeWidth=1)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:0f3460,70:0d0221,100:0d0221&height=260&section=header&text=TSUR%20DRORI&fontSize=80&fontColor=00ff41&animation=fadeIn&desc=%3E%20Builder%20%7C%20AI%20Systems%20%7C%20Shipping%20Products%20that%20Matter&descSize=18&descAlignY=72&fontAlignY=38&stroke=00ff41&strokeWidth=1)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%24+sudo+become-engineer+--year%3D2019;%3E+Former+attorney+%E2%86%92+Full-Stack+Engineer;%24+deploy+zoominfo+intellforce+drilithon;%3E+Building+AI+novel+engine+%5BWIP%5D;%24+stack+%3D+TypeScript+%2B+Bun+%2B+OpenRouter+%2B+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%24+build+--fast+--think+--ship;%3E+AI+systems+%7C+products+at+scale+%7C+zero+BS;%24+deploy+zoominfo+intellforce+drilithon;%3E+Building+AI+novel+engine+%5BWIP%5D;%24+stack+%3D+TypeScript+%2B+Bun+%2B+OpenRouter+%2B+AI)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,14 +10,14 @@
 
 ## `> whoami`
 
-**Full-Stack Engineer** based in Israel with an unusual path: 5 years as an **international commercial attorney** — negotiating multi-million dollar deals and advising on cross-border data privacy — before pivoting fully into engineering.
+**Full-Stack Engineer** who builds things that work. Obsessed with AI, clean architecture, and shipping products people actually use.
 
-That legal background isn't a footnote. It directly shapes how I architect systems: precise schema design, rigorous risk reasoning, and the ability to translate complex business logic into code that holds up under pressure.
+I move fast without breaking things — precise schema design, multi-step AI pipelines, and systems that scale from zero to production without drama.
 
-- **ZoomInfo** — Shipped Chrome Extension features used by 200K+ users
-- **Intellforce** — Built schema-driven CMS so robust that management evaluated pivoting it into a standalone SaaS product
-- **[Drilithon](https://github.com/TsurDrori/drilithon)** — Designed and launched a full fitness ecosystem solo (React Native / Expo / Supabase / Deno)
-- **Now** — Building a professional-grade AI novel engine: up to 500 pages of coherent narrative via context engineering + multi-step pipelines
+- **ZoomInfo** — Shipped Chrome Extension features to 200K+ users
+- **Intellforce** — Schema-driven CMS so solid it was evaluated as a standalone SaaS product
+- **[Drilithon](https://github.com/TsurDrori/drilithon)** — Full fitness ecosystem built solo end-to-end (React Native / Expo / Supabase / Deno)
+- **Now** — Building a professional-grade AI novel engine: 500 pages of coherent narrative through context engineering + multi-step pipelines
 
 ---
 
