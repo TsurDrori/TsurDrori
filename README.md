@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:0f3460,70:0d0221,100:0d0221&height=260&section=header&text=TSUR%20DRORI&fontSize=80&fontColor=00ff41&animation=fadeIn&desc=%3E%20Builder%20%7C%20AI%20Systems%20%7C%20Shipping%20Products%20that%20Matter&descSize=18&descAlignY=72&fontAlignY=38&stroke=00ff41&strokeWidth=1)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:0f3460,70:0d0221,100:0d0221&height=340&section=header&text=TSUR%20DRORI&fontSize=80&fontColor=00ff41&animation=twinkling&desc=%3E%20Builder%20%7C%20AI%20Systems%20%7C%20Shipping%20Products%20that%20Matter&descSize=18&descAlignY=65&fontAlignY=35&stroke=00ff41&strokeWidth=1)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%24+build+--fast+--think+--ship;%3E+AI+systems+%7C+products+at+scale+%7C+zero+BS;%24+deploy+zoominfo+intellforce+drilithon;%3E+Building+AI+novel+engine+%5BWIP%5D;%24+stack+%3D+TypeScript+%2B+Bun+%2B+OpenRouter+%2B+AI)](https://git.io/typing-svg)
 
