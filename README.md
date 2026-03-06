@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:0f3460,70:0d0221,100:0d0221&height=340&section=header&text=TSUR%20DRORI&fontSize=80&fontColor=00ff41&animation=twinkling&desc=%3E%20Builder%20%7C%20AI%20Systems%20%7C%20Shipping%20Products%20that%20Matter&descSize=18&descAlignY=65&fontAlignY=35&stroke=00ff41&strokeWidth=1)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:0f3460,60:16213e,100:0d0221&height=340&section=header&text=TSUR%20DRORI&fontSize=80&fontColor=00ff41&animation=twinkling&desc=%3E%20Builder%20%7C%20AI%20Systems%20%7C%20Shipping%20Products%20that%20Matter&descSize=18&descAlignY=65&fontAlignY=35&stroke=00ff41&strokeWidth=1)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%24+build+--fast+--think+--ship;%3E+AI+systems+%7C+products+at+scale+%7C+zero+BS;%24+deploy+zoominfo+intellforce+drilithon;%3E+Building+AI+novel+engine+%5BWIP%5D;%24+stack+%3D+TypeScript+%2B+Bun+%2B+OpenRouter+%2B+AI)](https://git.io/typing-svg)
 
@@ -70,7 +70,7 @@ drilithon         React Native · Expo · Supabase · Deno · PG     [LIVE]
 <tr>
 <td>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TsurDrori&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TsurDrori&theme=radical&show_icons=true&hide_border=true)
 
 </td>
 <td>
@@ -81,7 +81,7 @@ drilithon         React Native · Expo · Supabase · Deno · PG     [LIVE]
 </tr>
 </table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TsurDrori&theme=radical&hide_border=true&layout=compact&langs_count=8&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TsurDrori&theme=radical&hide_border=true&layout=compact&langs_count=8)
 
 </div>
 
@@ -91,7 +91,7 @@ drilithon         React Native · Expo · Supabase · Deno · PG     [LIVE]
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TsurDrori&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TsurDrori&theme=radical&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
