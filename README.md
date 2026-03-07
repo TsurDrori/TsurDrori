@@ -1,35 +1,38 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ff006e,50:8338ec,100:fb5607&height=220&section=header&text=Tsur%20Drori&fontSize=76&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Engineer%20%7C%20Solo%20Founder%20%7C%20AI-First%20Builder&descSize=18&descAlignY=75&fontAlignY=38)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:0f3460,100:0f3460&height=340&section=header&text=TSUR%20DRORI&fontSize=80&fontColor=00ff41&animation=twinkling&desc=%3E%20Builder%20%7C%20AI%20Systems%20%7C%20Shipping%20Products%20that%20Matter&descSize=18&descAlignY=65&fontAlignY=35&stroke=00ff41&strokeWidth=1)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FF006E&center=true&vCenter=true&width=520&lines=Former+International+Attorney+%E2%86%92+Engineer;Building+AI-native+products+at+full+speed;Schema+%2B+Systems+%2B+Story;ZoomInfo+%7C+Intellforce+%7C+Drilithon+%7C+Now+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%24+build+--fast+--think+--ship;%3E+AI+systems+%7C+products+at+scale+%7C+zero+BS;%24+deploy+zoominfo+intellforce+drilithon;%3E+Building+AI+novel+engine+%5BWIP%5D;%24+stack+%3D+TypeScript+%2B+Bun+%2B+OpenRouter+%2B+AI)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## About Me
+## `> whoami`
 
-I'm a **Full-Stack Engineer** based in Israel with an unusual path: I spent 5 years as an **international commercial attorney** — negotiating multi-million dollar deals and advising on cross-border data privacy — before pivoting fully into software engineering.
+**Full-Stack Engineer** who builds things that work. Obsessed with AI, clean architecture, and shipping products people actually use.
 
-That legal background isn't a footnote. It directly shapes how I architect systems: precise schema design, rigorous risk reasoning, and the ability to translate complex business logic into code that actually holds up under pressure.
+I move fast without breaking things — precise schema design, multi-step AI pipelines, and systems that scale from zero to production without drama.
 
-- **Enterprise track record** — Built a schema-driven CMS at Intellforce so robust that management evaluated pivoting it into a standalone SaaS product. Shipped Chrome Extension features used by 200K+ users at ZoomInfo.
-- **Solo founder track record** — Designed and launched [Drilithon](https://github.com/TsurDrori/drilithon), a full fitness ecosystem (React Native / Expo / Supabase / Deno), from schema to App Store as a solo developer.
-- **Current obsession** — Building a professional-grade AI novel engine capable of generating up to 500 pages of coherent, structured narrative using advanced context engineering, multi-step pipelines, and OpenRouter.
-
----
-
-## Currently Building
-
-| Project | Stack | What It Is |
-|---|---|---|
-| **Story Generator** | TypeScript · Hono · Bun · SQLite · OpenRouter | AI-native novel engine — multi-pipeline braindump → dossier → outline → book. Advanced context management & tool-call orchestration. |
-| **Drilithon** | React Native · Expo · Supabase · Deno · PostgreSQL | Fitness ecosystem with real-time leaderboards, streak systems, subscription management, and OTA updates. |
+- **ZoomInfo** — Shipped Chrome Extension features to 200K+ users
+- **Intellforce** — Schema-driven CMS so solid it was evaluated as a standalone SaaS product
+- **[Drilithon](https://github.com/TsurDrori/drilithon)** — Full fitness ecosystem built solo end-to-end (React Native / Expo / Supabase / Deno)
+- **Now** — Building a professional-grade AI novel engine: 500 pages of coherent narrative through context engineering + multi-step pipelines
 
 ---
 
-## Tech Stack
+## `> ls ./projects`
+
+```
+NAME              STACK                                           STATUS
+─────────────────────────────────────────────────────────────────────────
+story-generator   TypeScript · Hono · Bun · SQLite · OpenRouter  [WIP]
+drilithon         React Native · Expo · Supabase · Deno · PG     [LIVE]
+```
+
+---
+
+## `> cat ./stack`
 
 <div align="center">
 
@@ -49,7 +52,7 @@ That legal background isn't a footnote. It directly shapes how I architect syste
 
 [![Databases](https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,supabase&theme=dark)](https://skillicons.dev)
 
-**Build, DevOps & Testing**
+**DevOps & Testing**
 
 [![DevOps](https://skillicons.dev/icons?i=docker,vite,webpack,jest,cypress,playwright,git&theme=dark)](https://skillicons.dev)
 
@@ -59,15 +62,17 @@ That legal background isn't a footnote. It directly shapes how I architect syste
 
 ---
 
-## GitHub Stats
+## `> ./stats.sh`
 
 <div align="center">
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TsurDrori&theme=radical)
 
 <table>
 <tr>
 <td>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TsurDrori&theme=radical&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TsurDrori&theme=radical)
 
 </td>
 <td>
@@ -75,26 +80,29 @@ That legal background isn't a footnote. It directly shapes how I architect syste
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TsurDrori&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </td>
+<td>
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TsurDrori&theme=radical)
+
+</td>
 </tr>
 </table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TsurDrori&theme=radical&hide_border=true&layout=compact&langs_count=8&count_private=true)
-
 </div>
 
 ---
 
-## GitHub Trophies
+## `> trophy --display`
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TsurDrori&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TsurDrori&bg_color=0d0221&color=00ff41&line=0f3460&point=00ff41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## Contribution Graph
+## `> git log --graph`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TsurDrori/TsurDrori/output/github-snake-dark.svg" />
@@ -104,7 +112,7 @@ That legal background isn't a footnote. It directly shapes how I architect syste
 
 ---
 
-## Get In Touch
+## `> contact --open`
 
 <div align="center">
 
@@ -112,8 +120,8 @@ That legal background isn't a footnote. It directly shapes how I architect syste
 [![X](https://img.shields.io/badge/X-%40tsurdrori-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tsurdrori)
 [![Email](https://img.shields.io/badge/Email-tsurdrori%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tsurdrori@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=TsurDrori&color=ff006e&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=TsurDrori&color=00ff41&style=for-the-badge&label=Profile+Views)
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:fb5607,50:8338ec,100:ff006e&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:0f3460,100:0d0221&height=150&section=footer)
